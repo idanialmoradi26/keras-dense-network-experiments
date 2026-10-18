@@ -1,0 +1,6 @@
+# Versions were not recorded in the original notebooks.
+# The notebooks use Keras 3 style code (input_shape warnings), so TensorFlow >= 2.16 is assumed; adjust if needed.
+tensorflow>=2.16
+numpy
+matplotlib
+jupyter
